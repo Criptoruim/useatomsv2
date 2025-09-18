@@ -757,5 +757,23 @@
       "totalSupplyTxt": "$260,358.75",
       "totalBorrowTxt": "$123,799.46"
     }
+  },
+  {
+    "timestamp": "2025-09-18T16:32:31.696Z",
+    "chain": "UX",
+    "asset": "ATOM",
+    "url": "https://app.ux.xyz/assets/ibc%2FC4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+    "supplyApyPct": 0,
+    "borrowApyPct": 0,
+    "utilizationPct": 0,
+    "totalSupplyUsd": 0,
+    "totalBorrowUsd": 0,
+    "raw": {
+      "supplyApyTxt": "0%",
+      "borrowApyTxt": "0%",
+      "utilRateTxt": "0%",
+      "totalSupplyTxt": "$0.00",
+      "totalBorrowTxt": "$0.00"
+    }
   }
 ]
