@@ -763,5 +763,22 @@
       "totalBorrowedTxt": "$14,496.88",
       "utilizationTxt": "28.84%$35,894.71 borrowable"
     }
+  },
+  {
+    "timestamp": "2025-09-19T05:24:21.516Z",
+    "protocol": "Shade",
+    "page": "lend",
+    "asset": "ATOM",
+    "url": "https://app.shadeprotocol.io/lend",
+    "supplyAprPct": 2.14,
+    "totalSuppliedUsd": 50774.28,
+    "totalBorrowedUsd": 14606.97,
+    "utilizationPct": 28.84,
+    "raw": {
+      "supplyAprTxt": "2.14% +4.9%",
+      "totalSuppliedTxt": "$50,774.28",
+      "totalBorrowedTxt": "$14,606.97",
+      "utilizationTxt": "28.84%$36,167.31 borrowable"
+    }
   }
 ]
